@@ -6,12 +6,12 @@ Live Demo - [Click here](https://ponragavan-todo-list.netlify.app/)
 
 ## Screenshots
 
-![Screenshot 1](/demo/Todo-list1.png)
-![Screenshot 1](/demo/Todo-list2.png)
-![Screenshot 1](/demo/Todo-list3.png)
-![Screenshot 1](/demo/Todo-list4.png)
-![Screenshot 1](/demo/Todo-list5.png)
-![Screenshot 1](/demo/Todo-list6.png)
+<img src="/demo/Todo-List1.png" width=400 />
+<img src="/demo/Todo-List2.png" width=400 />
+<img src="/demo/Todo-List3.png" width=400 />
+<img src="/demo/Todo-List4.png" width=400 />
+<img src="/demo/Todo-List5.png" width=400 />
+<img src="/demo/Todo-List6.png" width=400 />
 
 ## Features
 
