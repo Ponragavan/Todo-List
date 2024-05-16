@@ -4,6 +4,15 @@ This is a simple todo list application built with React. The app allows users to
 
 Live Demo - [Click here](https://ponragavan-todo-list.netlify.app/)
 
+## Screenshots
+
+![Screenshot 1](/demo/Todo-list1.png)
+![Screenshot 1](/demo/Todo-list2.png)
+![Screenshot 1](/demo/Todo-list3.png)
+![Screenshot 1](/demo/Todo-list4.png)
+![Screenshot 1](/demo/Todo-list5.png)
+![Screenshot 1](/demo/Todo-list6.png)
+
 ## Features
 
 - **Add Task**: Users can add tasks with name, description, and date of addition.
