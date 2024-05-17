@@ -37,13 +37,19 @@ To run this application locally, follow these steps:
 git clone https://github.com/Ponragavan/Todo-list.git
 ```
 
-2. Install dependencies:
+2. Goto the project directory:
+
+```bash
+cd Todo-list
+```
+
+3. Install dependencies:
 
 ```bash
 npm install
 ```
 
-3.Start the app:
+4.Start the app:
 
 ```bash
 npm run dev
